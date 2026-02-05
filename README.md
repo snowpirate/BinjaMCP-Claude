@@ -1,3 +1,12 @@
+# Background
+
+This was just vibe coded to play around with Claude.  I gave it this prompt and the rest of this repo was created:
+
+Prompt:
+let's setup a MCP server in Binary Ninja (ver 5.2.8722) and hook Claude Desktop to it.  Make it just as simple as Laurie did with Ghidra: https://github.com/LaurieWired/GhidraMCP
+
+
+
 # Binary Ninja MCP
 
 A Model Context Protocol (MCP) server for Binary Ninja, allowing LLMs like Claude to autonomously reverse engineer binaries through Binary Ninja.
